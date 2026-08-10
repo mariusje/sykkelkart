@@ -1,0 +1,6 @@
+[project]
+name = "sykkelkart"
+version = "0.1.0"
+description = "Sykkelkart"
+requires-python = ">=3.12"
+dependencies = []
