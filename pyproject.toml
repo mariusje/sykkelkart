@@ -3,4 +3,8 @@ name = "sykkelkart"
 version = "0.1.0"
 description = "Sykkelkart"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "folium>=0.20.0",
+    "h3>=4.5.0",
+    "numpy>=2.5.2",
+]
